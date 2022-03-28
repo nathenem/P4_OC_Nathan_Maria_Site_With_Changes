@@ -737,13 +737,22 @@ h4 {
   color: #292929 !important;
 }
 
+p {
+  font-size: 16px;
+}
+
 .icons {
   margin-bottom: 14px;
   margin-top: 24px;
 }
 
 .white {
-  color: #ffffff !important;
+  color: #222222 !important;
+  font-size: 16px;
+}
+
+li a {
+  color: #222222 !important;
 }
 
 .portfolio-thumb {
@@ -778,7 +787,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-  background-color: #f3976c;
+  background-color: #c27956;
 }
 
 .tc-white {
@@ -786,13 +795,13 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-  background: #f3976c;
-  color: #ffffff !important;
+  background: #c27956;
+  color: #222222 !important;
 }
 
 .btn-atomic-tangerine:hover {
   background: #c27956 !important;
-  color: #ffffff !important;
+  color: #222222 !important;
 }
 
 .ltc-white {
@@ -804,7 +813,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-  color: #f3976c !important;
+  color: #c27956 !important;
 }
 
 .ltc-atomic-tangerine:hover {
