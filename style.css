@@ -715,7 +715,12 @@ h3 {
   font-size: 15px;
   text-transform: uppercase;
   font-weight: 700;
-  color: #333333 !important;
+  color: #292929 !important;
+}
+
+#above {
+  position: relative;
+  z-index: 1;
 }
 
 .med-width-whitespace {
@@ -725,11 +730,11 @@ h3 {
 }
 
 h1 {
-  color: #333333 !important;
+  color: #292929 !important;
 }
 
 h4 {
-  color: #333333 !important;
+  color: #292929 !important;
 }
 
 .icons {
