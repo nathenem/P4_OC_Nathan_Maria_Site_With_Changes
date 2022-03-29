@@ -9,7 +9,8 @@ body {
 
 .aria-hidden-text {
   color: #000000;
-  visibility: hidden;
+  position: relative;
+  z-index: -1;
 }
 
 a,
